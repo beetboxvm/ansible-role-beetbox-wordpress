@@ -1,0 +1,8 @@
+---
+beet_root: "/path/to/project"
+wp_download_core: no
+wp_install_site: no
+wp_account_name: admin
+wp_account_pass: admin
+wp_account_email: admin@beetbox.local
+wp_locale: ""

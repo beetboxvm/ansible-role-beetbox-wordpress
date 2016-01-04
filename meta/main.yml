@@ -1,0 +1,18 @@
+---
+galaxy_info:
+  author: thom8
+  description: WordPress project role for beetbox.
+  license: "license (BSD, MIT)"
+  min_ansible_version: 1.9
+  platforms:
+  - name: Ubuntu
+    versions:
+    - all
+  categories:
+    - beetbox
+    - development
+    - installer
+    - wordpress
+    - web
+dependencies:
+  - { role: heskethm.wp-cli }
