@@ -1,10 +1,10 @@
-# Ansible Role: Beetbox Backdrop
+# Ansible Role: Beetbox Wordpress
 
 An Ansible role that creates and installs a WordPress project on beetbox.
 
 ## Requirements
 
-This role is specifically developed as an extension to beetbox -- https://github.com/drupalmel/beetbox
+This role is specifically developed as an extension to beetbox -- https://github.com/beetboxvm/beetbox
 
 ## Role Variables
 
@@ -36,7 +36,7 @@ WordPress locale.
 
 ## Dependencies
 
-- Beetbox -- https://github.com/drupalmel/beetbox
+- Beetbox -- https://github.com/beetboxvm/beetbox
 
 ## License
 
