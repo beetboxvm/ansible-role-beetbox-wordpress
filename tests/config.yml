@@ -1,4 +1,5 @@
 ---
+beet_root: "home/ubuntu/workspace"
 beet_project: wordpress
 wp_download_core: yes
 wp_install_site: yes
