@@ -1,5 +1,8 @@
 ---
-beet_root: "home/ubuntu/workspace"
+beet_domain: "wordpress.local"
+beet_root: "{{ beet_base }}/docroot"
+role_path: "{{ beet_home }}/provisioning/ansible/roles/beetboxvm.wordpress"
+
 beet_project: wordpress
 wp_download_core: yes
 wp_install_site: yes
